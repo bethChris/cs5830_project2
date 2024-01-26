@@ -1,0 +1,7 @@
+# git ignore
+# ignore all .csv
+*.csv
+data/*.csv
+*.txt
+data/*.txt
+!data
